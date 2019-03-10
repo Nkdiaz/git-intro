@@ -1,1 +1,1 @@
-print("hello from the master branch!")
+print("hello from the other but equally important branch!")
